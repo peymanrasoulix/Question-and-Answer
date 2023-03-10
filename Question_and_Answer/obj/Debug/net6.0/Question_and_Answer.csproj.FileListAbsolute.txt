@@ -1,0 +1,15 @@
+C:\Users\Peyman\Desktop\work\C#\college\Question_and_Answer\Question_and_Answer\bin\Debug\net6.0\Question_and_Answer.exe
+C:\Users\Peyman\Desktop\work\C#\college\Question_and_Answer\Question_and_Answer\bin\Debug\net6.0\Question_and_Answer.deps.json
+C:\Users\Peyman\Desktop\work\C#\college\Question_and_Answer\Question_and_Answer\bin\Debug\net6.0\Question_and_Answer.runtimeconfig.json
+C:\Users\Peyman\Desktop\work\C#\college\Question_and_Answer\Question_and_Answer\bin\Debug\net6.0\Question_and_Answer.dll
+C:\Users\Peyman\Desktop\work\C#\college\Question_and_Answer\Question_and_Answer\bin\Debug\net6.0\Question_and_Answer.pdb
+C:\Users\Peyman\Desktop\work\C#\college\Question_and_Answer\Question_and_Answer\obj\Debug\net6.0\Question_and_Answer.csproj.AssemblyReference.cache
+C:\Users\Peyman\Desktop\work\C#\college\Question_and_Answer\Question_and_Answer\obj\Debug\net6.0\Question_and_Answer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Peyman\Desktop\work\C#\college\Question_and_Answer\Question_and_Answer\obj\Debug\net6.0\Question_and_Answer.AssemblyInfoInputs.cache
+C:\Users\Peyman\Desktop\work\C#\college\Question_and_Answer\Question_and_Answer\obj\Debug\net6.0\Question_and_Answer.AssemblyInfo.cs
+C:\Users\Peyman\Desktop\work\C#\college\Question_and_Answer\Question_and_Answer\obj\Debug\net6.0\Question_and_Answer.csproj.CoreCompileInputs.cache
+C:\Users\Peyman\Desktop\work\C#\college\Question_and_Answer\Question_and_Answer\obj\Debug\net6.0\Question_and_Answer.dll
+C:\Users\Peyman\Desktop\work\C#\college\Question_and_Answer\Question_and_Answer\obj\Debug\net6.0\refint\Question_and_Answer.dll
+C:\Users\Peyman\Desktop\work\C#\college\Question_and_Answer\Question_and_Answer\obj\Debug\net6.0\Question_and_Answer.pdb
+C:\Users\Peyman\Desktop\work\C#\college\Question_and_Answer\Question_and_Answer\obj\Debug\net6.0\Question_and_Answer.genruntimeconfig.cache
+C:\Users\Peyman\Desktop\work\C#\college\Question_and_Answer\Question_and_Answer\obj\Debug\net6.0\ref\Question_and_Answer.dll
